@@ -1,0 +1,14 @@
+{
+  "name": "az204-function-app-js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start -p 8000",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  },
+  "devDependencies": {},
+  "main": "src/{index.js,functions/*.js}"
+}

@@ -1,0 +1,11 @@
+GET {{host}}/api/hello-world
+?name=HeptaDecane
+###
+
+POST {{host}}/api/hello-world
+Content-Type: application/json
+
+{
+    "name": "HeptaDecane"
+}
+###
