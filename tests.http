@@ -9,3 +9,6 @@ Content-Type: application/json
     "name": "HeptaDecane"
 }
 ###
+
+GET {{host}}/api/get-customers
+###
